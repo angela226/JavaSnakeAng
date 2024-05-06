@@ -1,5 +1,3 @@
-# JavaSnakeAng
-
 ¡Hola! ¡Soy Angela y este es mi primer juego "real" en Java! ¡Espero que lo disfrutes!
 
 Debes compilar cada archivo en src usando javac y ejecutar la clase 'SnakeGame' para jugar.
